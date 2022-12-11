@@ -8,8 +8,4 @@ public class vehicle {
         System.out.println("its a vihecel");
     }
 
-    public static class truck extends vehicle{
-
-
-    }
 }
